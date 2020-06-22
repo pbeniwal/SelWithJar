@@ -2,6 +2,10 @@
 
 mvn clean install assembly:single
 
+--> Running Jar file
+
+java -jar <name_of_jar>
+
 --> Install Selenium
 
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
